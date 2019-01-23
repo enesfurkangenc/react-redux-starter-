@@ -1,4 +1,5 @@
 React --> React-router redux starter kit.
+Semantic Ui added!
 
 ## Available Scripts
 
